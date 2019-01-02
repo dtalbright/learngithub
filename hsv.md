@@ -1,6 +1,11 @@
 # Huntsville
 
 ### Things to do
-- Taco Mama
+- Bridgestreet
 - Big Spring Park
 - Yellowhammer Brewing :beer:
+
+### Restaurants
+- Rosie's Cantina
+- Taco Mama
+- Viet Huang
